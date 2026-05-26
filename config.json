@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configcrocess",
+        "uuid": 372887,
+        "checksum": "czymdk"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
